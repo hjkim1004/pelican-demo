@@ -8,7 +8,7 @@ DEFAULT_LANG = 'en'
 
 # THEME settings
 THEME = "themes/svbtle"
-THEME_STATIC_PATHS = ['theme']
+THEME_STATIC_DIR = 'theme'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -16,6 +16,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# GitHub
+GITHUB_URL = "https://github.com/hjkim1004"
 
 # Blogroll
 LINKS = (
