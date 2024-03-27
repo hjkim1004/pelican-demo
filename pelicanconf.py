@@ -1,6 +1,6 @@
 AUTHOR = 'Heejeong Kim'
 SITENAME = 'Pelican Demo'
-SITEURL = "https://twinklekhj/pelican-demo/"
+SITEURL = "https://twinklekhj.xyz/pelican-demo/"
 
 PATH = "content"
 
