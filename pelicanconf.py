@@ -8,6 +8,7 @@ DEFAULT_LANG = 'en'
 
 # THEME settings
 THEME = "themes/svbtle"
+THEME_STATIC_PATHS = ['theme']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -40,7 +41,6 @@ EXTRA_PATH_METADATA = {
 # static paths will be copied without parsing their contents
 STATIC_PATHS = [
     "images",
-    "themes"
     "extra/robots.txt",
 ]
 
